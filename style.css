@@ -1,0 +1,22 @@
+.form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+form{
+
+    background-color: silver;
+    color: red;
+    width: 250px;
+    height: 200px;
+    border: 2px solid #333;
+    border-radius: 10px;
+    cursor: pointer;
+    text-align: center;
+}
+table{
+    background-color: lime;
+}
+#a{
+    cursor: pointer;
+}
